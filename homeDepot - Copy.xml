@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Bootcamp2: Project A"  >
+
+<test name="HOME DEPOT: CREATE NEW ACCOUNT">
+	<classes>
+	<class name= "bootCamp2_frames.NewAccnt_homeDEPOT"></class>    
+	</classes>
+</test>
+
+</suite>
